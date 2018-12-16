@@ -1,0 +1,14 @@
+public class Trapezoidalarea{
+    public static void main(String ages[]){
+         int topline =4;
+         int baseline=6;
+         int height = 5;
+         int area = (topline+baseline)*height/2;
+         
+         System.out.println(area);
+         
+
+
+
+    }
+}
