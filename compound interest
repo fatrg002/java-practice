@@ -1,0 +1,10 @@
+public class bmi{
+    public static void main(String args[]){
+        int pv =30000;//本金
+        double i = 0.06;//周期內固定利率或固定回報率
+        int n =5;//週期-年
+        double fv =pv*Math.pow((1+i),n);
+        System.out.print(fv);
+        
+    }
+}
