@@ -1,5 +1,5 @@
 public class Trapezoidalarea{
-    public static void main(String ages[]){
+    public static void main(String args[]){
          int topline =4;
          int baseline=6;
          int height = 5;
