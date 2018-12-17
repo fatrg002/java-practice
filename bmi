@@ -1,0 +1,9 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+         double height =1.8;
+         double weight =75.1;
+         double bmi =weight/Math.pow(height,2);
+        System.out.println(bmi);
+     }
+}
